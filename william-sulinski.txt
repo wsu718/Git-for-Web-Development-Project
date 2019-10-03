@@ -1,0 +1,1 @@
+This is a text file that I created for Git for Web Development Project.
